@@ -1,3 +1,3 @@
 # MazeGenerator
 Simple maze generator.
-![alt text](https://github.com/andem20/MazeGenerator/blob/main/preview.png?raw=true)
+![Maze generator preview](https://github.com/andem20/MazeGenerator/blob/master/preview.png)
